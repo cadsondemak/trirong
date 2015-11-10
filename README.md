@@ -12,4 +12,7 @@ Formal looped Thai typefaces have delicate details so it is not proper to extend
 
 Sizes and positions of vowels and tone marks need to be managed carefully because they are all relevant to readability, legibility, and overall textures.
 
+Glyphs files (.glyphs) in the source folder can be opened in Glyphs program for further development.
+Font files (.ttf and .otf) in the fonts folder are compatible with Window, MacOS, and Linux system.
+
 The Trirong project is led by Cadson Demak, a type foundry in Thailand. To contribute, see github.com/cadsondemak/trirong
